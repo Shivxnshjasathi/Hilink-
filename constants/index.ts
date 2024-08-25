@@ -62,7 +62,7 @@ export const NAV_LINKS = [
     },
     {
       title: 'Our Community',
-      links: ['Climbing xixixi', 'Hiking hilink', 'Hilink kinthill'],
+      links: ['Climbing xoxo', 'Hiking Hights', 'kitty kinthill'],
     },
   ];
   
@@ -70,7 +70,7 @@ export const NAV_LINKS = [
     title: 'Contact Us',
     links: [
       { label: 'Admin Officer', value: '123-456-7890' },
-      { label: 'Email Officer', value: 'hilink@akinthil.com' },
+      { label: 'Email Officer', value: 'shivansh@gmail.com' },
     ],
   };
   
